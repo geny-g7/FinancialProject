@@ -1,0 +1,2692 @@
+﻿    /* Déclaration de la police speciale (1-2-3 Go)
+    Source (http://www.policedecriture.com/fonts/11125/argor_got_scaqh.html) */
+    @font-face{
+        font-family: "Go 123";
+        src: url("../polices/1_2_3_go/123_GO.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Alpha Rev)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Alpha Rev";
+        src: url("../polices/gemfonts/alpharev/AlphaRev.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Alpha Rev Hollow)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Alpha Rev Hollow";
+        src: url("../polices/gemfonts/alpharev/AlphaRevHollow.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Amerton Outline)
+    Source (http://www.fontspace.com/category/outlined?p=31) */
+    @font-face{
+        font-family: "Amerton Outline";
+        src: url("../polices/roger-white/amerton-outline/AMERTO.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Amerton Outline Italic)
+    Source (http://www.fontspace.com/category/outlined?p=31) */
+    @font-face{
+        font-family: "Amerton Outline";
+        font-style: italic;
+        src: url("../polices/roger-white/amerton_outline/AMERTO_I.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Amin Hurgada)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Amin Hurgada Outline";
+        src: url("../polices/sughayer-foundry/amin-hurgada-outline/Amin_Hurgada_Outline.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Amin Storm)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Amin Ripple";
+        src: url("../polices/sughayer-foundry/amin-ripple/Amin_Ripple.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Amin Sleazy)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Amin Sleazy";
+        src: url("../polices/sughayer-foundry/amin-sleazy/Amin_Sleazy.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Amin Storm)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Amin Storm";
+        src: url("/polices/sughayer-foundry/amin-storm/Amin_Storm.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Argor Got Scaqh)
+    Source (http://www.policedecriture.com/fonts/11125/argor_got_scaqh.html) */
+    @font-face{
+        font-family: "Argor Got Scaqh";
+        src: url("/polices/Argor_got_scaqh/Arggotsc.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Argor Got Scaqh)
+    Source (http://www.policedecriture.com/fonts/11125/argor_got_scaqh.html) */
+    @font-face{
+        font-family: "Archistico";
+        src: url("/polices/archistico/Archistico_Simple.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Bad Guy Black)
+    Source (http://www.policedecriture.com/) */
+    @font-face{
+        font-family: "Bad Guy Black";
+        src: url("/polices/bad-guy-black/Bad_Guy_Black.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Barber Shop)
+    Source (http://www.policedecriture.com/) */
+    @font-face{
+        font-family: "Barber Shop";
+        src: url("/polices/barber_shop/Barber_shop.ttf");
+    }
+    
+    /* Déclaration de la police speciale (BB Petie Boy)
+    Source (http://www.dafont.com/fr/theme.php?cat=103) */
+    @font-face{
+        font-family: "Barrel House";
+        src: url("/polices/barrelhouse_all_cap/Barrelhouse All Caps.ttf");
+    }
+    
+    /* Déclaration de la police speciale (BB Petie Boy)
+    Source (http://www.policedecriture.com/fonts/11331/bb_petie_boy.html) */
+    @font-face{
+        font-family: "BB Petie Boy";
+        src: url("/polices/bb_petie_boy/BB Petie Boy Heavy.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Breeze Caps Oblic)
+    Source (http://www.policedecriture.com/) */
+    @font-face{
+        font-family: "Breezed Caps Oblic";
+        src: url("/polices/breezed_caps_oblique/BREECBO.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Broadcast Titling)
+    Source (http://www) */
+    @font-face{
+        font-family: "Broadcast Titling";
+        src: url("/polices/dieter-steffmann/broadcast-titling/BroadcastTitling.ttf");
+    }
+    /* Déclaration de la police speciale (Butterfly)
+    Source (http://www.fontspace.com/category/outlined?p=43) */
+    @font-face{
+        font-family: "Butterfly Letters";
+        src: url("/polices/darrian-lynx/butterfly-letters/Butterfly-Letters.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Cameo Antique)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Cameo Antique";
+        src: url("/polices/character/cameo-antique/CameoAntique.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Cameo Antique)
+    Source (http://www.ufonts.com) */
+    @font-face{
+        font-family: "Caslon Open Face";
+        src: url("/polices/caslon/caslon-openface-bt.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Cameo Antique)
+    Source (http://www.ufonts.com) */
+    @font-face{
+        font-family: "Casque Open Face";
+        src: url("/polices/casque/casqueof.ttf");
+    }
+
+    /* Déclaration de la police speciale (Coffeetin)
+    Source (http://www.fontspace.com/rick-mueller/coffee-tin) */
+    @font-face{
+        font-family: "Coffee Tin";
+        src: url("/polices/coffeetin/CoffeeTin Initials.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Crystal)
+    Source (http://www.) */
+    @font-face{
+        font-family: "Crystal";
+        src: url("/polices/george-william/crystal/Crystal.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Decorative)
+    Source () */
+    @font-face{
+        font-family: "Decorative";
+        src: url("/polices/george-william/decorative/Decorative.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Easy Open Face)
+    Source () */
+    @font-face{
+        font-family: "Easy Open Face";
+        src: url("/polices/easy_open_face/EasyOpenFace.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Foglighten03)
+    Source (http://www) */
+    @font-face{
+        font-family: "Foglihten No3";
+        src: url("/polices/gluk/foglihten03/FoglihtenNo03.otf");
+    }
+    
+    /* Déclaration de la police speciale (Freehand Roman)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Freehand Roman";
+        src: url("/polices/runes-and-fonts/freehand-roman/Freehand-Roman.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Friday Night Lights)
+    Source (http://www.fontspace.com/category/poster?p=2) */
+    @font-face{
+        font-family: "Friday Night Lights";
+        src: url("/polices/kc-fonts/friday-night-lights/FNL_DEMO-KCFonts.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Gardenia Victorian)
+    Source (http://www.1001freefonts.com/serif-fonts-6.php) */
+    @font-face{
+        font-family: "Gardenia Victorian";
+        src: url("/polices/douglas-day/GardeniaVictorian.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Gardenia Victorian)
+    Source (http://www.1001freefonts.com/serif-fonts-6.php) */
+    @font-face{
+        font-family: "Gastada";
+        src: url("/polices/astramat/gastada/GASTADA.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Gloucester Open Face)
+    Source (http://www.fontspace.com/category/outlined?p=29
+    http://www.1001freefonts.com/serif-fonts-6.php) */
+    @font-face{
+        font-family: "Gloucester Open Face";
+        src: url("/polices/rw_gloucester_open_face/gloucest.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Scorched Earth)
+    Source (http://www.fontspace.com/category/poster?p=9) */
+    @font-face{
+        font-family: "Good Morning";
+        src: url("/polices/kc-fonts/good-morning-afternoon/GoodMorningAfternoon.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Great Band)
+    Source (http://www.dafont.com/fr/theme.php?cat=106&page=11) */
+    @font-face{
+        font-family: "Great Band";
+        src: url("/polices/greatband/GreatBand.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Gresham)
+    Source (http://www.dafont.com/fr/theme.php?cat=106&page=11) */
+    @font-face{
+        font-family: "Gresham";
+        src: url("/polices/roger-white/gresham/GRESHAM.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Hungover Outline)
+    Source (http://www.fontspace.com/category/outlined?p=68) */
+    @font-face{
+        font-family: "Hungover Outline";
+        src: url("/polices/gemfonts/hungover-outline/Hungover-Outline.ttf");
+    }
+
+    /* Déclaration de la police speciale (M Excellent)
+    Source (http://www.dafont.com/fr/theme.php?cat=103) */
+    @font-face{
+        font-family: "M Excellent";
+        src: url("../polices/mexcellent/mexcellent 3d.ttf");
+    }
+
+    /* Déclaration de la police speciale (Nauert Regular)
+    Source () */
+    @font-face{
+        font-family: "Nauert Regular";
+        src: url("/polices/david-rawoski/nauert/NauertRegular.ttf");
+    }
+
+    /* Déclaration de la police speciale (Nauert Wd)
+    Source () */
+    @font-face{
+        font-family: "Nauert Wd";
+        src: url("/polices/david-rawoski/nauert/NauertWd-Plain.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Network Vampire)
+    Source (http://www.) */
+    @font-face{
+        font-family: "Network Vampire";
+        src: url("/polices/billy-argel/network-vampires/NETWORK.otf");
+    }
+    
+    /* Déclaration de la police speciale (Alpha Rev)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "Offset Plain";
+        src: url("../polices/gemfonts/offset-plain/Offset-Plain.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Post Office) 
+    Source (http://www.dafont.com/fr/theme.php?cat=106&page=2) */
+    @font-face{
+        font-family: "Post Office";
+        src: url("../polices/post_office/POSTOFFICE.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Prida01) 
+    Source () */
+    @font-face{
+        font-family: "Prida 01";
+        src: url("../polices/gluk/prida01/Prida01.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Prida36) 
+    Source () */
+    @font-face{
+        font-family: "Prida 36";
+        src: url("../polices/gluk/prida36/Prida36.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Prisma) 
+    Source (http://www.dafont.com/fr/theme.php?cat=103) */
+    @font-face{
+        font-family: "Prisma";
+        src: url("../polices/prisma/Prisma.ttf");
+    }
+ 
+    /* Déclaration de la police speciale (Prisma) 
+    Source (http://www.dafont.com/fr/theme.php?cat=103) */
+    @font-face{
+        font-family: "Prisma";
+        src: url("../polices/prisma/Prisma.otf");
+    }
+    
+    /* Déclaration de la police speciale (Rosewood Standard) */
+    @font-face{
+        font-family: "Rosewood Standard";
+        src: url("../polices/RosewoodStd-Regular.otf");
+    }
+ 
+    /* Déclaration de la police  version "gras"
+    @font-face{
+        font-family: "Rosewood Standard";
+        font-weight: bold;
+        src: url("../polices/RosewoodStd-Bold.otf");*/
+    }
+    
+    /* Déclaration de la police speciale (Scorched Earth)
+    Source (http://www.fontspace.com/category/poster?p=7) */
+    @font-face{
+        font-family: "Scorched Earth";
+        src: url("../polices/kc-fonts/scorched-earth/ScorchedEarthDEMO-KCFonts.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Serial Publication)
+    Source (http://www.fontspace.com/category/poster?p=4) */
+    @font-face{
+        font-family: "Serial Publication";
+        src: url("../polices/kc-fonts/serial-publication/SerialPublicationDEMO.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Wood Cut) 
+    Source (http://www.dafont.com/fr/theme.php?cat=106&page=2) */
+    @font-face{
+        font-family: "Shadowed Serif";
+        src: url("../polices/shadowed_serif/SHADSER.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Tarantino)
+    Source () */
+    @font-face{
+        font-family: "Tarantino";
+        src: url("../polices/hero-fonts/tarantino/tarantino.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Tarantino)
+    Source () */
+    @font-face{
+        font-family: "West Balaio";
+        src: url("../polices/intellecta-design/westbalaio/WestBalaio.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Znikomit 25) 
+    Source () */
+    @font-face{
+        font-family: "Vtks Revolt";
+        src: url("../polices/vtks-design/vtks-revolt/Vtks Revolt.ttf");
+    }
+    
+    /* Déclaration de la police speciale (White Line Fever 3D)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "White Line Fever 3D";
+        src: url("../polices/gemfonts/white-line-fever/WhiteLineFever3D100.ttf");
+    }
+    
+    /* Déclaration de la police speciale (White Line Fever)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "White Line Fever";
+        src: url("../polices/gemfonts/white-line-fever/WhiteLineFever100.ttf");
+    }
+    
+    /* Déclaration de la police speciale (White Line Fever Light)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "White Line Fever Light";
+        src: url("../polices/gemfonts/white-line-fever/WhiteLineFeverLight100.ttf");
+    }
+    
+    /* Déclaration de la police speciale (White Line Fever Light 3D)
+    Source (http://www.fontspace.com) */
+    @font-face{
+        font-family: "White Line Fever Light 3D";
+        src: url("../polices/gemfonts/white-line-fever/WhiteLineFeverLight3D100.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Wood Cut) 
+    Source (http://www.dafont.com/fr/theme.php?cat=106&page=2) */
+    @font-face{
+        font-family: "Wood Cut";
+        src: url("../polices/woodcut/WOODCUT.ttf");
+    }
+    
+    /* Déclaration de la police speciale (Yellow Design Studio) 
+    Source (http://www.fontspace.com/category/branding?p=3) */
+    @font-face{
+        font-family: "Yellow Design Studio";
+        src: url("../polices/yellow-design-studio/GistRoughUprExboldTwoDemo.otf");
+    }
+    
+    /* Déclaration de la police speciale (Znikomit 25) 
+    Source () */
+    @font-face{
+        font-family: "Znikomit 25";
+        src: url("../polices/gluk/znikomit25/ZnikomitNo25.otf");
+    }
+    
+    /***************************************** Fin de declaration des polices speciales *******************************************/
+    *{
+        box-sizing: border-box;
+    }
+    
+    body{
+        margin: 5px;
+        background: rgb(250,250,225);
+        background: #0883d1;
+        background: aliceblue;
+        background: #90caf9;
+        background-image: url("/graphics/Blue_Ground.png");
+        background-image: url("/graphics/Blue_Doves.jpg");
+        /*background-image: url("/graphics/Genial_Blue.PNG");*/
+        background-size: 100% 100%;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    
+    p a:active{
+        color: #04579b;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    
+    p a:link{
+        color: green;
+        font-style: italic;
+        text-decoration: none;
+        /*font-style: italic;*/
+    }
+    
+    p a:link:hover{
+        color: #0883d1;
+        font-style: normal;
+        text-decoration: underline;
+        /*font-weight: bold;*/
+    }
+    
+    p a:visited{
+        color: #d70000;
+    }
+    
+    header{
+        width: 100%;
+        height: auto;
+        margin-bottom: 25px;
+        padding: 0;
+        z-index: 3;
+    }
+    
+    /*header span{
+        width: 45px;
+        height: 30px;
+        margin: 0 0 10px 0;
+        padding: 0 10px 3px 10px;
+        position: relative;
+        top: -0.45em;
+        background: #ffd700;
+        color: #04579b;
+        font-size: 12pt;
+        line-height: 12px;
+        font-style: italic;
+        border-radius: 25px / 16px;
+        background-image: radial-gradient(yellow, #bbdefb, #90caf9, #64b5f6, #42a5f5, #0883d1, #04579b, purple, lightblue);
+    }*/
+    
+    #titre{
+        width: 100%/;
+        height: 9.5em;
+        margin: 0;
+        padding: 2.5px 0;
+        border-bottom: solid 1px #d90700;
+        border-top: solid 1px #09599d;
+        position: relative;
+        z-index: 1;
+        border-radius: 25px 25px 0px 0px / 25px 25px 0px 0px;
+    }
+    
+    #sous-titre1{
+        width: 100%;
+        height: 4.5em;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: aliceblue;
+        font-family: "Easy Open Face";
+        background: #09599d;
+        background-image: radial-gradient(#09579d, #0883d1);
+        text-shadow: 7px 0 7px #42a5f5;
+        position: absolute;
+        border-radius: 30px 30px 0px 0px / 30px 30px 0px 0px;
+    }
+    
+    #sous-titre2{
+        width: 100%;
+        height: 4.5em;
+        margin: 0 0 2.5px 0;
+        padding-top: 0;
+        text-align: center;
+        color: #09599d;
+        border-bottom: solid 1px #09579d;
+        background-image: url("../graphics/golden-g4.jpg");
+        background-size: 100% 100%;
+        background-position: center;
+        text-shadow: 3px 0 7px #0074e5;
+        position: absolute;
+        top: 4.7em;
+    }
+    
+    #logo-central{
+        width: 90px;
+        height: 90px;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 1.8em;
+        left: 1.6em;
+    }
+    
+    #logo-central img{
+        width: 100%;
+        height: auto;
+    }
+    
+    #gengoval{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        background: #04579b;
+        background-image: linear-gradient(#d70000, goldenrod, yellow, green, #0883d1, #04579b, purple);
+        background-image: -webkit-radial-gradient(#d70000, goldenrod, yellow, green, #0883d1, #0883d1, #04579b, purple);
+        background-image: -moz-radial-gradient(#d70000, goldenrod, yellow, green, #0883d1, #04579b, purple);
+        background-image: -ms-radial-gradient(#d70000, goldenrod, yellow, green, #0883d1, #04579b, purple);
+        background-image: -o-radial-gradient(#d70000, goldenrod, yellow, green, #0883d1, #0883d1, #04579b, purple);
+        background-image: radial-gradient(#d70000, goldenrod, yellow, #04579b, #0883d1, #0883d1, #04579b, purple);
+        border: solid 1px #0883d1;
+        position: relative;
+        top: 0.7em;
+    }
+    
+    #ovale1{
+        box-sizing: border-box;
+        width: 70%;
+        height: 45px;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        color: aliceblue;
+        /*color: #0883d1;*/
+        font-size: 2.3em;
+        /*font-weight: bold;*/
+        background: #04579b;
+        font-family: "Bad Guy Black";
+        font-family: "Gloucester Open Face";
+        /*font-family: "Easy Open Face";*/
+        border: solid 1px aliceblue;
+        border-radius: 25px 25px 0 0 / 25px 25px 0 0;
+        z-index: 7;
+        text-shadow: 7px 0 7px #42a5f5;
+        background-image: linear-gradient(#0883d1, #04579b/*, #ffd700*/);
+        background-image: radial-gradient(#0883d1, #0883d1, #0077c9, #007acc, #42a5f5, #0883d1, #0077c9, /*green, */#0883d1, #04579b, purple);
+        background-image: url("/graphics/Genial_Blue.pg");
+        background-position : center;
+        background-size: 100% 100%;
+    }
+    
+    #ovale2{
+        width: inherit;
+        height: 45px;
+        margin: 0px auto;
+        padding: 0;
+        text-align: center;
+        color: aliceblue;
+        font-size: 25pt;
+        font-weight: bold;
+        line-height: 45px;
+        border-radius: 180px 180px / 180px 180px;
+        position: relative;
+        text-shadow: 7px 0 7px beige;
+        background: #04579b;
+        z-index: 7;
+        /*border: solid 1px aliceblue;
+        background-image: url("../graphics/golden3.jpg");*/
+    }
+    
+    /*#logo1{
+        width: = 14%;
+        height: 8.9em;
+        line-height: 96px;
+        margin: 4px 0;
+        padding: 0 16px;
+        border: solid 1px #04579b;
+        text-align: center;
+        color: #09579d;
+        text-shadow: 7px 0 7px beige;
+        float: left;
+        position: absolute;
+        background-image: url("../graphics/drapeau.png");
+        background-size: 100% 100%;
+        background-position: center;
+        z-index: 3;        
+    }
+    
+    #logo2{
+        width: = 14%;
+        height: 8.9em;
+        line-height: 96px;
+        padding: 0 16px;
+        border: solid 1px #04579b;
+        text-align: center;
+        color: #09579d;
+        text-shadow: 7px 0 7px beige;
+        clear: left;
+        float: right;
+        position: relative;
+        top: -9.25em;
+        background-image: url("../graphics/drapeau.png");
+        background-size: 100% 100%;
+        background-position: center;
+        z-index: 3;
+    }
+    
+    #slogan{
+        clear: both;
+        width: 100%;
+        height: 45px;
+        line-height: 45px;
+        margin: 0;
+        padding: 0;
+        border-bottom: solid 1px #09579d;
+        font-size: 15pt;
+        text-align: center;
+        font-style: italic;
+        font-weight: bold;
+        color:  #0883d1;
+        text-shadow: 1px 1px 7px #09579d;
+        position: absolute;
+        top: 7.5em;        
+    }*/
+    
+    /*Code CSS pour la mise en forme des elements du corps de chaque page...*/
+    section{
+        /*clear:both;
+        box-sizing: border-box;*/ 
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        font-size: 14pt;
+        position: relative;
+        top: -0.65em;
+        z-index: 0;
+    }
+    
+    section p{
+        word-spacing: 0.25em;
+        letter-spacing: 0.1em;
+    }
+    
+    /*Code CSS qui manipule la mise en forme du menu principal commun a toutes les pages...*/
+    #menu-conteneur{
+        /*box-sizing: border-box;*/
+        width: 100%;
+        margin: 0;
+        padding: 2px 0;
+        height: 52px;
+        border-top: solid 1px #09579d;
+        border-bottom: solid 1px #09579d;
+    }
+        
+    #menu{
+        /*box-sizing: border-box;*/
+        width: 100%;
+        background: #09579d;
+        height: 45px;
+        margin-top: 0;
+        padding: 0;
+        position: absolute;
+        background-image: radial-gradient(#09579d, #0883d1);
+        /*background-image: url("../graphics/Blue-Background.jpg");
+        background-position: center;
+        background-size: 100% 100%;*/
+    }
+    
+    #menu dl{
+        width: 14%;
+        height: 45px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        float: left;
+        font-size: 16pt;
+        border-radius: 10px 10px 0px 0px / 10px 10px 0px 0px;
+    }
+    
+    #menu dl:hover{
+        /*background: #007709*/
+        background: #0882d7;
+        background: #0077c9;
+        font-weight: bold;
+        font-weight: bold;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: url("/graphics/Blue_Ground.jpg");
+        background-image: linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -webkit-linear-gradient(top, #04579b, #007acc, #0883d1, #42a5f5/*, #64b5f6*/, #42a5f5, #0883d1, #007acc);
+    }
+    
+    #menu dl:nth-child(2n){
+        background-position: center;
+        background-size: 100% 100%;
+        background-image: url("/graphics/golden2.jpg");
+        background: #ffd700;
+    }
+    
+    #menu dl:first-child, #menu dl:last-child{
+        width: 15%;
+        background-position: center;
+        background-size: 100% 100%;
+        font-family: "Bad Guy Black";
+        font-family: "Network Vampire";
+        font-family: "Easy Open Face";
+        font-size: 16pt;
+    }
+    
+    #menu dl:nth-child(2n):hover{
+        background-image: url("/graphics/golden-g4.jpg");
+        background-position: center;
+        background-size: 100% 100%;
+    }
+    
+    #menu dl:nth-child(2n) dt{
+        color: #09579d;
+    }
+
+    #menu dl:hover dd > ul > li{
+
+    }
+    
+    #menu dt{
+        box-sizing: border-box;
+        width: 100%;
+        height: 45px;
+        margin: 0;
+        padding: 0;
+        display: block;
+        color: #fff;
+        line-height: 45px;
+        text-align: center;
+        border-right: solid 1px transparent;
+        cursor: pointer;
+        border-radius: 10px 10px 0px 0px / 10px 10px 0px 0px;
+    }
+    
+    #menu dt a {
+        width: 100%;
+        border-right: solid 1px #fff;
+        border-radius: 10px 10px / 10px 10px;
+    }
+        
+    #menu dl dd{
+        width: 500%;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        display: none;
+        font-family: 'Easy Open Face';
+        opacity: 0;
+        top: -250px;
+        -webkit-transition: all ease-in 1.6s;
+        -moz-transition: all ease-in 0.5s;
+        -o-transition: all ease-in 0.5s;
+        transition: all ease-in 1.6s;
+    }
+
+    /*********************************************/
+    #menu dl dd ol{
+        width: inherit;
+        height: auto;
+        margin: 0;
+        padding: 2.5px;
+        display: inline-block;
+        position: relative;
+        /*position: static;*/
+        top: 2.5px;
+    }
+
+    #menu dl dd ol > li{
+        width: 33.333%;
+        margin: 0;
+        padding: 0 2.5px;
+        display: inline-block;
+        float: left;
+        position: relative;
+        list-style: hanging;
+        border-right: solid 1px #ffd700;
+        background-image: -webkit-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #42a5f5, #0883d1, #007acc);
+
+    }
+
+    #menu dl dd ol > li:first-child a{
+        background: #64b5f6;
+    }
+
+    #menu dl dd ol > li:first-child{
+        border-top: solid 1px #64b5f6;
+    }
+
+    #menu dl dd ol > li:nth-child(2) a{
+        background: #42a5f5;
+    }
+
+    #menu dl dd ol > li:nth-child(2){
+        border-top: solid 1px #42a5f5;
+    }
+
+    #menu dl dd ol > li:last-child{
+        border-top: solid 1px #007acc;
+    }
+
+    #menu dl:nth-child(3) dd{
+        left: -100%;
+    }
+
+    #menu dl:nth-child(4) dd{
+        left: -200%;
+    }
+
+    #menu dl:nth-child(5) dd{
+        left: -300%;
+    }
+
+    #menu dl:nth-child(6) dd{
+        left: -400%;
+    }
+
+    #menu dl:nth-child(7) dd{
+        left: -500%;
+    }
+
+    #menu dl:nth-child(8) dd{
+        left: -600%;
+    }
+
+    /********************************************/
+
+    /*--------*/
+    #menu dl dd ul{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        display: inline;
+        /*opacity: 0;
+        top: -0px;*/
+        -webkit-transition: all ease-in 1.6s;
+        -moz-transition: all ease-in 0.5s;
+        -o-transition: all ease-in 0.5s;
+        transition: all ease-in 1.6s;
+    }
+
+    #menu dl dd ul li{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        display: inline-block;
+        list-style: hanging;
+        /*border-top: solid 1px #fff;
+        opacity: 0;
+        top: -160px;
+        -webkit-transition: all ease-in 1.6s;
+        -moz-transition: all ease-in 0.5s;
+        -o-transition: all ease-in 0.5s;
+        transition: all ease-in 1.6s;*/
+    }
+
+    #menu dl dd ul li:first-child{
+        border-top: none;
+    }
+
+    #menu dl dd ul li:hover{
+        font-weight: bold;
+
+    }
+
+    /*-----*/
+    #menu dl:hover dd{
+        opacity: 1;
+        top: 2.5px;
+        display: inline;
+        font-family: 'Easy Open Face';
+        font-weight: normal;
+        -webkit-transition: all ease-in 1.6s;
+        -moz-transition: all ease-in 0.5s;
+        -o-transition: all ease-in 0.5s;
+        transition: all ease-in 1.6s;
+    }
+    
+    #menu dl dd a{
+        width: 100%;
+        height: 36px;
+        line-height: 36px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        text-indent: 5px;
+        font-size: 16pt;
+        background-image: linear-gradient(left top, #007acc 0%, #0883d1, #42a5f5, #64b5f6, #42a5f5, #0883d1, #007acc 100%);
+        background-image: -moz-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -ms-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -o-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -webkit-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #42a5f5, #0883d1, #007acc);
+    }
+    
+    #menu dl dd ul li a:hover{
+        background: lightyellow;
+        color: #0883d1;
+        font-weight: bold;
+        background-image: url("/graphics/golden.jpg");
+        background-position: center;
+        background-size: 100% 100%;
+        background: aliceblue;
+    }
+
+    /*Mise en page du contenu de la page*/
+    article{
+        box-sizing: border-box;
+        width: 70%;
+        margin: 16px auto;
+        padding: 0 25px;
+        border: solid 1px #0883d1;
+        background: lightblue;
+        background-image: linear-gradient(#bbdefb, #90caf9);
+        position: relative;
+        top: -0.7em;
+        z-index: -1;
+        border-radius: 10px 10px 0 0 / 10px 10px 0 0;
+        box-shadow: 0px -3px 3px #09579d;
+    }
+    
+    article #appel{
+        box-sizing: border-box;
+        width: auto;
+        margin: 3px;
+        padding: 16px 0;
+        color: aliceblue;
+        text-align: center;
+        /*font-family: "Bad Guy Black";
+        font-family: "Gloucester Open Face";
+        font-variant: small-caps;*/
+        background-image: radial-gradient(#42a5f5, #0883d1, #09579d);
+        border-radius: 7.5px 7.5px /  7.5px 7.5px;
+        border: solid 3px #ffd700;
+        letter-spacing: 0.1em;
+        word-spacing: 0.25em;
+    }
+    
+    article #appel-container{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 25px 0;
+        padding: 3px;
+        border-radius: 7.5px 7.5px /  7.5px 7.5px;
+        background-image: radial-gradient(#09579d, #0883d1);
+    }
+    
+    article #panneau img{
+        width: 100%;
+    }
+    
+    article #contenu > p{
+        text-align: justify;
+        font-size: 14pt;
+        color: #252725;
+        color: #09579d;
+        color: #04579b;
+        color: #09599d;
+    }
+    
+    article #contenu > p:first-letter{
+        width: 50px;
+        height: 50px;
+        float: left;
+        position: absolute;
+        top: 3em;
+        color: #09579d;
+        color: #0883d1;
+        /*background: #ffd700;*/
+        font-size: 2.5em;
+        font-weight: bold;
+        font-family: "Castellar";
+        font-family: "Bad Guy Black";
+        font-family: 'Gloucester Open Face';
+    }
+    
+    q{
+        font-style: italic;
+        color: #09579d;
+        text-shadow: 3px 0 7px #0883d1;
+    }
+    
+    /*Code CSS pour la mise en forme du deuxieme paragraphe de la page d'accueil.
+    Ils correspondent particulierement aux trois images qui s'affichent au milieu ...*/
+    #banner{
+        box-sizing: border-box;
+        /*width: inherit;*/
+        margin: 0;
+        padding: 5px 0;
+        background: #ffd700;
+        background-image: radial-gradient(#90caf9, #64b5f6, #42a5f5, #0883d1, #007acc, #0883d1, #04579b, purple);
+        border: solid 1px #09579d;
+    }
+    
+    #banner .panel{
+        width: 100%;
+        margin: 5px 0 1px 0;
+        padding: 0 ;
+        text-align: center;
+        text-indent: 0px;
+        font-style: italic;
+        color: #fff;
+        border: solid 1px  #0799d7;
+        background: #0883d1;
+        box-sizing: border-box;
+    }
+    
+    #banner img{
+        width: 100%;
+        /*height: auto;*/
+    }
+    
+    #banner img:hover{
+        width: 100%;
+        /*height: auto;*/
+    }
+    
+    #banner ul{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        list-style: none;
+        text-align: center;
+        text-indent: 0px;
+    }
+    
+    #banner ul li a{
+        width: 100%;
+    }
+    
+    #panneau{
+        box-sizing: border-box;
+        height: 25%;
+    }
+    
+    #banner #panel-droit, #banner #panel-central, #banner #panel-gauche{
+        box-sizing: border-box;
+        width: 32.7%;
+        height: inherit;
+        margin: 0;
+        padding: 0 5px;
+        text-align: center;
+        display: inline-block;
+        border: solid 1px #0883d1;
+        background: aliceblue;
+    }
+
+    #logoIntro{
+        width: 360px;
+        height: 250px;
+        margin-right: 10px;
+        padding: 0;
+        float: left;
+        border: solid 1px #04579b;
+        /*border-radius: 10px 10px / 10px 10px;*/
+        background-image: url("/graphics/palmierID.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+
+    /***************************************************/
+
+    #Photo_Fondateur{
+        width: 16em;
+        height: 18em;
+        margin: 0 1.6em 0 0;
+        padding: 2.5px;
+        position: relative;
+        float: left;
+        /*border: solid 1px #0883d1;*/
+        border-radius: 120px 120px / 120px 120px;
+        background-image: url("/graphics/GEG_ID_TRNS.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+
+    /***************************************************/
+    #IDpannel, #IDpannel-doublon{
+        width: 100%;
+        height: 327.5px;
+        margin: 0;
+        padding: 5px;
+        text-align: center;
+        border: solid 1px #09579d;
+        background: aliceblue;
+    }
+    IDpannel ul li, IDpannel-doublon ul li{
+        width: 50%;
+    }
+    
+    #IDcard{
+        width: 100%;
+        height: 310px;
+        margin: 0;
+        padding: 5px;
+        display: inline-block;
+        list-style: none;
+        text-align: center;
+        text-indent: 0px;
+    }
+
+    #IDcard .pannel{
+        padding: 5px;
+        border-bottom: solid 1px aliceblue;
+        font-variant: small-caps;
+        letter-spacing: 0.25px;
+    }
+
+    #IDcard #IDrecto{
+        width: 400px;
+        height: 305px;
+        margin: 0;
+        padding: 0 5px;
+        text-align: center;
+        color: aliceblue;
+        background: #0883d1;
+        display: inline-block;
+        float: left;
+        border: solid 1px #0883d1;
+    }
+
+    #IDcard #IDverso{
+        width: 400px;
+        height: 305px;
+        margin: 0;
+        padding: 0 5px;
+        text-align: center;
+        color: aliceblue;
+        display: inline-block;
+        float: left;
+        border: solid 1px #0883d1;
+        background: #e70909;
+        border: solid 1px #e70909;
+    }
+
+    #myFrontID{
+        width: 380px;
+        height: 250px;
+        margin: 5px;
+        padding: 2.5px;
+        text-align: center;
+        background: aliceblue;
+        border: solid 1px #42a5f5;
+        position: relative;
+        top: 5px;
+        border: solid 1px #04579b;
+        border-radius: 10px 10px / 10px 10px;
+        background-image: radial-gradient(#64b5f6, #42a5f5, #42a5f5, #64b5f6, #42a5f5, #42a5f5, #0883d1);
+        background-image: url("/graphics/Genial_Blue.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 110% 110%;
+        box-shadow: -3px -3px 7px #007acc;
+        /*-webkit-transform:rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        transform: rotate(-90deg);*/
+    }
+    
+    #IDpannel-doublon #myFrontID{
+        background-image: url("/graphics/palmierID.jpg");
+     }
+
+    #myHeadID{
+        width:96%;
+        height:36px;
+        margin: 5px;
+        padding: 5px 0;
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-size: 14pt;
+        font-weight: bold;
+        color: #04579b;
+        position: absolute;
+        display:block;
+        border-radius: 5px 5px / 5px 5px;
+    }
+
+    #myPhotoID{
+        width: 130px;
+        height: 140px;
+        padding: 0;
+        text-align: center;
+        /*border: solid 2.5px #007acc;*/
+        border-radius: 90px 90px / 90px 90px;
+        position: absolute;
+        top: 45px;
+        left: 5px;
+        background-image: url("/graphics/GEG_ID_TRNS.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    
+    #myGengID{
+        width: 54px;
+        height: 54px;
+        margin: 0 auto;
+        padding-top: 15px;
+        position: relative;
+        top: 18px;
+        text-align: center;
+        color: aliceblue;
+        opacity: 0.5;
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+    }
+    #myPrintID{
+        width: inherit;
+        height: inherit;
+        vertical-align: middle;
+        text-align: center;
+        color: aliceblue;
+        color: #04579b;
+        margin-top: 50px;
+        padding: 2.5px;
+    }
+    
+    #myMiniID{
+        width: 55px;
+        height: 60px;
+        margin: 2.5px auto;
+        padding: 0;
+        position: relative;
+        top: 50px;
+        left: 150px;
+        text-align: center;
+        opacity: 0.25;
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+        background-image: url("/graphics/GEG_ID_TRNS.png");
+    }
+
+    #myNumero{
+        margin: 20px 5px;
+        padding: 0;
+        text-align: right;
+        position: relative;
+        top: 16px;
+    }
+
+    #myNumeroID{
+        margin: 0;
+        padding: 5px 5px 0px 5px;
+        color: #04579b;
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    #barcodeID{
+        width: 45%;
+        height: 30px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: black;
+        background: white;
+        font-family: bold;
+        border: solid 1px #007acc;
+        position: relative;
+        top: -2.5px;
+        left: 102.5px;
+    }
+
+    #myFrontID > h5{
+        text-align: center;
+        text-shadow: 7px 0 7px lightblue;
+        color: red;
+        float: right;
+        position: relative;
+        top: 25px;
+        left: 30px;
+        writing-mode: rl;
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        white-space: nowrap;
+    }
+
+    #palmier{
+        width: 180px;
+        height: 140px;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        top: -125px;
+        left: 97px;
+        opacity: 0.5;
+        background-size: 100% 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-image: url("/graphics/Mon_Palmier_Trns.png");
+    }
+
+    #myBackID{
+        width: 380px;
+        height: 250px;
+        margin: 5px;
+        padding: 2.5px;
+        text-align: center;
+        background: aliceblue;
+        position: relative;
+        top: 5px;
+        border: solid 1px #04579b;
+        border-radius: 10px 10px / 10px 10px;
+        background-size: 100% 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-image: url("/graphics/palmierID.jpg");
+        /*box-shadow: -3px -3px 7px #007acc;*/
+    }
+
+    #myBackHeadID{
+        width:97%;
+        height:36px;
+        margin: 5px;
+        padding: 2.5px;
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-size: 16pt;
+        font-weight: bold;
+        color: #04579b;
+        /*background: #04579b;
+        position: absolute;*/
+        display:block;
+        /*float: left;*/
+        border-radius: 5px 5px / 5px 5px;
+    }
+    
+    #myBackMiniID{
+        width: 55px;
+        height: 60px;
+        margin: 0 auto;
+        padding: 0;
+        position: absolute;
+        top: 170px;
+        left: 10px;
+        text-align: center;
+        opacity: 0.25;
+        /*background: #09579d;*/
+        border-radius: 180px 180px / 180px 180px;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+        background-image: url("/graphics/GEG_ID_TRNS.png");
+    }
+
+    #myBackNumero{
+        margin: 20px;
+        padding: 0;
+        text-align: center;
+        position: relative;
+        top: 120px;
+    }
+
+    #myBackNumeroID{
+        color: #04579b;
+        font-size: 13pt;
+        font-weight: bold;
+        /*font-family: 'Easy Open Face';*/
+    }
+
+    #backBarcodeID{
+        width: 47.5%;
+        height: 30px;
+        margin: 5px;
+        padding: 0;
+        text-align: center;
+        color: black;
+        background: white;
+        font-family: bold;
+        border: solid 1px #007acc;
+        position: relative;
+        top: 145px;
+        left: 95px;
+    }
+
+    #propriete{
+        width: 160px;
+        padding: 2.5px;
+        margin-left: 5px;
+        text-align: center;
+        font-size: 10pt;
+        font-weight: bold;
+        color: #04579b;
+        /*background: aliceblue;*/
+        position: relative;
+        top: -35px;
+        left: 265px;
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        transform: rotate(90deg);
+        /*white-space: nowrap;
+        writing-mode: rl;*/
+
+    }
+
+    #drapeau{
+        width: 60px;
+        height: 45px;
+        margin: 10px;
+        position: relative;
+        top: 7.5px;
+        /*left: 5px;
+        border: solid 1px #007acc;*/
+        float: right;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+        background-image: url("/graphics/Grand_Palmier.png");
+    }
+
+    #notes{
+        width: 260px;
+        height: 131px;
+        margin: 2.5px;
+        padding: 3.75px;
+        text-align: center;
+        background: aliceblue;
+        border: solid 2.5px #007acc;
+        border-radius: 5px 5px / 5px 5px;
+        position: relative;
+        top: -121px;
+        left: 55px;
+    }
+
+    #holder1, #holder2{
+        width: 60px;
+        height: 12px;
+        margin: 0 10px;
+        padding: 0 2.5px;
+        background: aliceblue;
+        /*border: solid 1px #0883d1;*/
+        border-radius: 75px 75px / 75px 75px;
+    }
+
+    #logogen{
+        width: 130px;
+        height: 130px;
+        margin: 0;
+        padding: 4.5px;
+        text-align: center;
+        border: solid 1px #007acc;
+        position: relative;
+        top: -200px;
+        left: 450px;
+    }
+
+    #boulen{
+        width: 120px;
+        height: 60px;
+        /*border: solid 1px #007acc;*/
+        background: #007acc;
+        border-radius: 75px 75px 0 0 / 75px 75px 0 0;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: radial-gradient(#64b5f6, #42a5f5, #42a5f5, #64b5f6, #42a5f5, #42a5f5, #0883d1);
+        background-image: linear-gradient(#007acc, #007acc, #0883d1, #42a5f5, #42a5f5, #42a5f5);
+    }
+
+    #top{
+        width: 60px;
+        height: 30px;
+        /*border: solid 1px #ffd700;*/
+        background: #ffd700;
+        border-radius: 90px 90px 0 0 / 90px 90px 0 0;
+        position: relative;
+        top: 30px;
+        left: -0.5px;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: url("/graphics/golden-g4.jpg");
+        /*float: left;*/
+    }
+
+    #boules{
+        width: 120px;
+        height: 60px;
+        /*border: solid 1px #ffd700;*/
+        background: #ffd700;
+        border-radius: 0 0 75px 75px / 0 0 75px 75px;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: url("/graphics/golden-g7.jpg");
+    }
+
+    #bottom{
+        width: 60.5px;
+        height: 30px;
+        /*border: solid 1px #007acc;*/
+        background: #007acc;
+        border-radius: 0 0 75px 75px / 0 0 75px 75px;
+        position: relative;
+        top: -1px;
+        left: 59.5px;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: radial-gradient(#64b5f6, #42a5f5, #42a5f5, #64b5f6, #42a5f5, #42a5f5, #0883d1);
+        background-image: linear-gradient(#42a5f5, #42a5f5, #42a5f5, #0883d1, #007acc, #007acc);
+    }
+
+    #G1{
+        width: 45px;
+        height: 45px;
+        margin: 0;
+        padding: 0;
+        color: #0883d1;
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-family: 'Gloucester Open Face';
+        font-size: 36pt;
+        position: relative;
+        top: -293px;
+        left: 460px;
+    }
+
+    #G2{
+        width: 45px;
+        height: 45px;
+        margin: 0;
+        padding: 0;
+        color: #ffd700;
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-family: 'Gloucester Open Face';
+        font-size: 36pt;
+        position: relative;
+        top: -337px;
+        left: 520px;
+    }
+
+    .moisChoisis{
+        color: green;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    .nic{
+        color: #04579b;
+        font-family: Verdana, 'Courier New', sans-serif;
+        font-family: 'Easy Open Face';
+        font-weight: bold;
+    }
+
+    #DepartmentList > li{
+        color: #e90907;
+        color: #0883d1;
+        color: #007acc;
+    }
+
+    .collectivites{
+        width: 100%;
+        height: auto;
+        /*margin: 7px;*/
+        padding: 0;
+        text-align: justify;
+        /*border: solid 1px #0883d1;*/
+    }
+
+    .collectivites dt{
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .collectivites dd{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        position: relative;
+    }
+
+    .collectivites ol{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: block;
+
+    }
+
+    .collectivites .banner > p{
+        color: aliceblue;
+        text-align: center;
+        letter-spacing: 0.1em;
+        word-spacing: 0.25em;
+        font-size: 1.8em;
+        font-family: "Easy Open Face";
+        font-family: "Gloucester Open Face";
+        color: #0883d1;
+        background: #ffd700;
+    }
+
+    .collectivites h1, .collectivites h2{
+        font-family: "Gloucester Open Face"
+    }
+
+    .collectives .coldroite{
+        width: 47.5%;
+        height: auto;
+        margin: 0 0 0 16px;
+        padding: 0;
+        /*border: solid 1px #0883d1;*/
+        position: relative;
+    }
+
+    .collectivites .colgauche{
+        width: 47.5%;
+        height: auto;
+        margin: 0 25px 0 0;
+        padding: 0;
+        /*border: solid 1px #0883d1;*/
+        float: left;
+        position: relative;
+    }
+
+    .colgauche li .coldroite li{
+        list-style: disc;
+        display: block;
+    }
+
+    #registration{
+        width: 80%;
+        margin: 0 auto;
+        padding: 25px;
+        border: solid 1px #0883d1;
+        border-radius: 10px 10px / 10px 10px;
+        box-shadow: 3px 3px 7px #0883d1;
+        /*text-align: center;
+        color: #04579b;*/
+    }
+
+    #registration fieldset{
+        margin-bottom: 0;
+        padding: 7.5px;
+        display: block;
+        border: solid 1px #0883d1;
+        border-radius: 10px 10px / 10px 10px;
+        box-shadow: -3px 3px 7px #0883d1;
+    }
+
+    #registration > h1, h2, h3{
+        margin: 0;
+        padding: 5px;
+        color: aliceblue;
+        background: #0883d1;
+        text-align: center;
+        letter-spacing: 0.1em;
+        word-spacing: 0.25em;
+        /*font-size: 16pt;*/
+    }
+
+    #registration input{
+        height: 36px;
+        margin: 0px;
+        padding: 2.5px 5px;
+        color: #0883d1;
+        /*font-size: 16pt;*/
+        font-weight: bold;
+        font-family: 'Times New Roman';
+        display: inline-block;
+        border: solid 1px #0883d1;
+        box-shadow: 1.5px 1.5px 3px #0883d1;
+    }
+
+    label{
+        height: 36px;
+        margin: 0 0.5px 0 7.5px;
+        padding: 7.5px;
+        color: aliceblue;
+        background: #0883d1;
+    }
+
+    legend{
+        letter-spacing: 0.01em;
+        word-spacing: 0.025em;
+        color: #04579b;
+        font-size: 18pt;
+        font-weight: bold;
+        /*background: #ffd700;*/
+    }
+
+    #registration select{
+        height: 36px;
+        margin: 0;
+        padding: 2.5px 4.5px;
+        color: #0883d1;
+        font-size: 16pt;
+        font-weight: bold;
+        font-family: 'Times New Roman';
+        display: inline-block;
+        border: solid 1px #0883d1;
+        box-shadow: 1.5px 1.5px 3px #0883d1;
+    }
+
+    #registration textarea{
+        width: 98%;
+        /*height: 36px;*/
+        margin: 10px 7.5px 0 7.5px;
+        padding: 2.5px 5px;
+        color: #0883d1;
+        text-align: justify;
+        font-size: 14pt;
+        font-weight: bold;
+        font-family: 'Times New Roman';
+        resize: none;
+        display: inline-block;
+        border: solid 1px #0883d1;
+        box-shadow: 1.5px 1.5px 3px #0883d1;
+    }
+
+    .FieldRequired{
+        color: red;
+        font-weight: bold;
+    }
+
+    #instructions{
+        color: #008000;
+        font-weight: bold;
+    }
+
+    /*#registration #renseignements{
+        width: 100%;
+        height: auto;
+        padding: 7.5px;
+    }*/
+
+    #OriginalLastName, #OriginalFirstName, #CurrentLastName, #CurrentFirstName, #OtherName{
+        width: 28.1%;
+        text-align: left;
+        font-size: 16pt;
+    }
+
+    #CountryOfResidency, #CountryOfCitizenship{
+        width: 24.6%;
+    }
+
+    #DateOfBirth{
+        width: 24.5%;
+        text-align: center;
+        font-size: 16pt;
+    }
+
+    #PlaceOfBirth, #DistrictOfBirth{
+        width: 29%;
+        font-size: 14pt;
+    }
+
+    #HospitalOfBirth{
+        width: 29%;
+    }
+
+    #CityOfBirth, #StateOfBirth{
+        width: 32%;
+        font-size: 14pt;
+    }
+
+    #BirthPostal{
+        width: 24.4%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #CountryOfBirth{
+        width: 29%;
+    }
+
+    #RegionOfBirth, #HospitalPermitID{
+        width: 24.6%;
+        font-size: 14pt;
+    }
+
+    #MatrimonialStatus, #AccomodationType, #PropertyTitle{
+        width: 25.9%;
+        text-align: center;
+    }
+
+    #MemberGender{
+        width: 27.7%;
+        text-align: center;
+        font-size: 16pt;
+    }
+
+    #NumberOfDependants{
+        width: 12.3%;
+        text-align: right;
+        font-size: 16pt;
+    }
+
+    #AnnualCosts{
+        width: 12.3%;
+        text-align: right;
+        font-size: 16pt;
+    }
+
+    #NumberOfOccupants{
+        width: 12.5%;
+        text-align: right;
+        font-size: 16pt;
+    }
+
+    #VoterIDNumber, #FiscalIDNumber{
+        width: 28.5%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #DriverIDNumber{
+        width: 24%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #IDExpiration{
+        width: 16.8%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #OtherID, #OtherIDNumber{
+        width: 18.3%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #OtherIDExpiration{
+        width: 16.8%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #PassportNumber{
+        width: 18%;
+        text-align: center;
+        font-size: 16pt;
+    }
+
+    #PassportExpiration{
+        width: 18%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #PassportCity, #StayCity{
+        width: 27%;
+        font-size: 14pt;
+    }
+
+    #PassportCountry, #CountryOfDual{
+        width: 27%;
+    }
+
+    #DualCitizenship{
+        width: 17.5%;
+    }
+
+    #StayAuthorization, #StayExpiration{
+        width: 18%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #StayIssuance{
+        width: 27%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #BuildingNumber{
+        width: 9%;
+        display: block;
+        text-align: center;
+        font-size: 16pt;
+    }
+
+    #StreetName{
+        width: 40%;
+        text-align: left;
+        font-size: 16pt;
+    }
+
+    #SuiteNumber{
+        width: 8%;
+        text-align: center;
+        font-size: 16pt;
+    }
+
+    #HomeTown, #City, #District, #StateName, #Country, #PostalCode, #GeographicRegion{
+        width: 30.4%;
+        font-size: 16pt;
+    }
+
+    #phones input{
+        width: 29%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    #Enregistrer{
+        width: 16%;
+        padding: 2.5px;
+        color: aliceblue;
+        background: #ffd700;
+        font-size: 16pt;
+        font-weight: bold;
+        border-radius: 90px 90px / 90px 90px;
+    }
+
+    #FatherFirstName, #FatherLastName, #FatherStatus, #FatherCitizenship{
+        width: 29%;
+        font-size: 14pt;
+    }
+
+    #MotherFirstName, #MotherLastName, #MotherStatus, #MotherCitizenship{
+        width: 29%;
+        font-size: 14pt;
+    }
+
+    #NumberOfBrothers{
+        width: 18%;
+    }
+
+    #NumberOfSisters{
+        width: 18%;
+    }
+
+    #EmploymentPosition, #EmploymentDepartment{
+        width: 34%;
+        font-size: 14pt;
+    }
+
+    #EmployerName, #EmployerCategory, #DirectSupervisor{
+        width: 66.4%;
+        font-size: 14pt;
+    }
+
+    #EmploymentStarting, #EmploymentEnding{
+        width: 18%;
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    /*#profile input{
+        display: inline-block;
+        width: 60%;
+    }*/
+
+    #DepartmentList li ul{
+
+    }
+
+    #banner #panel-droit{
+    }
+    
+    #banner #panel-central{
+    }
+    
+    #banner #panel-gauche{
+    }
+    /***************************************************/
+    section > footer{
+        box-sizing: border-box;
+        width: 70%;
+        margin: 0 auto;
+        padding: 0;
+        border: solid 1px #09579d;
+        text-align: center;
+        background: lightblue;
+        /*clear: both;*/
+        position: relative;
+        top: -1.5em;
+        /*border-radius: 10px 10px / 10px 10px;*/
+    }
+    
+    /*Code CSS pour la mise en forme du footer de la section.
+    Ils correspondent ...*/
+    #coordonnees{
+        box-sizing: border-box;
+        /*width: inherit;*/
+        margin: 0;
+        padding: 5px 0;
+        background: #ffd700;
+        background-image: radial-gradient(#bbdefb 0%, #90caf9, #64b5f6, #42a5f5, #0883d1, #04579b, purple 100%);
+        border: solid 1px #09579d;
+    }
+    
+    #coordonnees .panel{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 5px 0 1px 0;
+        padding: 0 ;
+        text-align: center;
+        text-indent: 0px;
+        font-style: italic;
+        color: #fff;
+    }
+    
+    #coordonnees img{
+        width: 100%;
+    }
+    
+    #coordonnees img:hover{
+        width: 100%;
+    }
+    
+    #coordonnees ul{
+        width: 100%;
+        margin: 0;
+        padding: 2.5px;
+        display: inline-block;
+        list-style: none;
+        text-align: center;
+        text-indent: 0px;
+    }
+    
+    #coordonnees ul li a{
+        width: 100%;
+    }
+    
+    #coordonnees #panneau0{
+        height: 25%;
+    }
+    
+    #coordonnees #cote-droit, #coordonnees #cote-central, #coordonnees #cote-gauche{
+        box-sizing: border-box;
+        width: 32%;
+        height: inherit;
+        margin: 0 2.5px;
+        padding: 0 16px;
+        text-align: left;
+        display: inline-block;
+        border: solid 1px #0883d1;
+        /*background: aliceblue;*/
+    }
+    
+    #coordonnees #cote-droit{
+        color: #09579d;
+        /*background: #d70000;*/
+        background-image: linear-gradient(right bottom, #d70000 0%, orange 100%);
+        background-image: -moz-linear-gradient(right, #d70000 0%, orange 100%);
+        background-image: -webkit-linear-gradient(right, #d70000 0%, orange 100%);
+        color: aliceblue;
+    }
+    
+    #coordonnees #cote-central{
+        margin: 0 0.5px;
+        width: 34%;
+        color: #09579d;
+        text-align: left;
+        /*background: #ffd700;*/
+        background-image: url("../graphics/golden-g5.jpg");
+        background-image: linear-gradient(right, goldenrod 0%,  #ffd700 100%);
+        background-image: -moz-linear-gradient(right, goldenrod 0%,  #ffd700 100%);
+        background-image: -webkit-linear-gradient(right, goldenrod 0%,  #ffd700 100%);
+    }
+    
+    #coordonnees #cote-gauche{
+        color: aliceblue;
+        background-position: center;
+        background-size: 100% 100%;
+        background-image: linear-gradient(#64b5f6 0%, #42a5f5, #0883d1 100%);
+        background-image: linear-gradient(right, #64b5f6 0%, #42a5f5, #0883d1 100%);
+        background-image: -moz-linear-gradient(right, #64b5f6 0%, #42a5f5, #0883d1 100%);
+        background-image: -webkit-linear-gradient(right, #64b5f6 0%, #42a5f5, #0883d1 100%);
+        background-image: url("/graphics/Blue_Ground.jpg");
+    }
+    
+    .remarques{
+        box-sizing: border-box;
+        width: inherit;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        border-radius: 10px 10px / 10px 10px;
+    }
+    
+    .remarques ul{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        display: inline-block;
+        width: inherit;
+        text-decoration: none;
+    }
+    
+    .remarques ul li{ 
+        height: 25px;
+        margin: 0 2px;
+        padding: 0 5px;
+        line-height: 20px;
+        box-sizing: border-box;
+        text-indent: -0px;
+        text-decoration: none;
+        font-size: 12pt;
+        display: inline-block;
+        list-style: none;
+        background: #09579d;
+        /*border: solid 1px #09579d;*/
+        border-radius: 10px 10px / 10px 10px;
+    }
+    
+    .remarques ul li a{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        text-decoration: none;
+        color: aliceblue;        
+    }
+    
+    /*Code CSS qui controle la mise en forme du petit cadrant du cote gauche de la page...*/
+    aside, nav{
+        margin: 0;
+        padding: 0;
+        width: 15%;
+        height: auto;
+        box-sizing: border-box;
+        z-index: 0;
+    }
+    
+    aside h3, nav h3{
+        color: #d70000;
+        font-style: italic;
+        text-shadow: 7px 0 7px lightyellow;
+    }
+    
+    aside b, nav b{
+        color: #0883d1;
+        text-shadow: 3px 0 7px;
+    }
+    
+    aside p, nav p{
+        text-align: justify;
+        font-size: 11pt;
+    }
+    
+    aside{
+        position: relative;
+        float: right;
+        top: -81.1em;
+        clear: both;
+    }
+
+    #identification{
+        width: 360px;
+        height: 250px;
+        margin-left: -50px;
+        padding: 2.5px;
+        text-align: center;
+        background: aliceblue;
+        border: solid 1px #42a5f5;
+        position: relative;
+        top: 7.5em;
+        border: solid 1px #04579b;
+        border-radius: 10px 10px / 10px 10px;
+        background-image: url("/graphics/palmierID.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        box-shadow: -3px -3px 7px #007acc;
+        -webkit-transform:rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+    }
+
+    #headID{
+        width:97%;
+        height:36px;
+        margin: 5px;
+        padding: 2.5px;
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-size: 16pt;
+        font-weight: bold;
+        color: #04579b;
+        /*background: #04579b;*/
+        position: absolute;
+        display:block;
+        float: left;
+        border-radius: 5px 5px / 5px 5px;
+    }
+
+    #photoID{
+        width: 90px;
+        height: 90px;
+        padding: 0;
+        text-align: center;
+        /*border: solid 2.5px #007acc;*/
+        border-radius: 90px 90px / 90px 90px;
+        position: relative;
+        top: 36px;
+        left: 5px;
+        background-image: url("/graphics/GEG_ID_TRNS.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    
+    #gengopalm{
+        width: 54px;
+        height: 54px;
+        margin: 0 auto;
+        padding-top: 15px;
+        position: relative;
+        top: 18px;
+        text-align: center;
+        color: aliceblue;
+        opacity: 0.5;
+        /*background: #09579d;*/
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        /*background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+        background-image: url("/graphics/GEG_ID_TRNS.png");*/
+    }
+    #printsequence{
+        width: inherit;
+        height: inherit;
+        vertical-align: middle;
+        text-align: center;
+        color: aliceblue;
+        color: #04579b;
+        margin-top: 50px;
+        padding: 2.5px;
+    }
+    
+    #miniID{
+        width: 54px;
+        height: 54px;
+        margin: 0 auto;
+        padding: 0;
+        position: relative;
+        top: -60px;
+        left: 150px;
+        text-align: center;
+        opacity: 0.25;
+        /*background: #09579d;*/
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+        background-image: url("/graphics/GEG_ID_TRNS.png");
+    }
+
+    #numero{
+        margin: 20px;
+        padding: 0;
+        text-align: center;
+        position: relative;
+        top: 16px;
+    }
+
+    #numeroID{
+        margin: 0;
+        padding: 5px 5px 0px 5px;
+        color: #04579b;
+        /*background: aliceblue;*/
+        text-align: center;
+        font-family: 'Easy Open Face';
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    #barcode{
+        width: 48.2%;
+        height: 30px;
+        padding: 0;
+        text-align: center;
+        color: black;
+        background: white;
+        font-family: bold;
+        border: solid 1px #007acc;
+        position: relative;
+        top: -2.5px;
+        left: 90px;
+    }
+
+    #identification > h5{
+        text-align: center;
+        text-shadow: 7px 0 7px lightblue;
+        color: red;
+        float: right;
+        position: relative;
+        top: -5px;
+        left: 30px;
+        writing-mode: rl;
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        white-space: nowrap;
+
+    }
+    
+    /*Les lignes de Code CSS qui suivent assurent la mise en forme du petit menu qui permet de placer une commande...*/
+    #commande{
+        height: 42px;
+        margin: 0;
+        padding: 2px 0;
+        position: relative;
+        box-sizing: border-box;
+    }
+    
+    #droite{
+        width: 94%;
+        height: inherit;
+        margin-left: 16px;
+        padding: 16px;
+        text-align: center;
+        position: relative;
+        top: 0.7em;
+        background: lightblue;
+        box-shadow: -7px -3px 7px #09579d;
+        border-radius: 10px 10px / 10px 10px;
+        background-image: url("/graphics/golden-g7.jpg");
+        background-size: 100% 100%;
+        background-position: center;
+    }
+    
+    #cercle{
+        width: 160px;
+        height: 160px;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        background: #09579d;
+        font-family: "Breezed Caps Oblic";
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(yellow, #bbdefb, #90caf9, #64b5f6, #42a5f5, #0883d1, #04579b, purple, lightblue);
+    }
+    
+    #monolettre{
+        color: #ffd700;
+        font-size: 50pt;
+        text-align: center;
+        vertical-align: middle;
+        font-family: "Rosewood Standard";
+        font-family: "Breezed Caps Oblic";
+        position: relative;
+        top: 0.4em;
+    }
+    
+    #rond{
+        width: 140px;
+        height: 140px;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        background: #09579d;
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(yellow, #bbdefb, #90caf9, #64b5f6, #42a5f5, #0883d1, #04579b, purple, lightblue);
+    }
+    
+    #grandelettre{
+        color: #ffd700;
+        font-size: 70pt;
+        text-align: center;
+        vertical-align: middle;
+        font-family: "Rosewood Standard";
+        font-family: "Good Morning";
+    }
+    
+    #oval{
+        width: 160px;
+        height: 160px;
+        margin: 0 auto;
+        padding: 0;
+        position: relative;
+        top: -25px;
+        text-align: center;
+        background: #09579d;
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(yellow, #bbdefb, #90caf9, #64b5f6, #42a5f5, #0883d1, #04579b, purple, lightblue);
+    }
+    
+    #testlettre{
+        color: aliceblue;
+        color: #ffd700;
+        font-size: 70pt;
+        text-align: center;
+        vertical-align: middle;
+        font-family: "Rosewood Standard";
+        font-family: "Gloucester Open Face";
+        position: relative;
+    }
+    
+    #geoval{
+        width: 120px;
+        height: 120px;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        background: #09579d;
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+    }
+    
+    #gelettre{
+        color: #ffd700;
+        width: 55px;
+        height: 55px;
+        margin: 0 auto;
+        padding: 0;
+        position: relative;
+        top: 31px;
+        text-align: center;
+        vertical-align: middle;
+        opacity: 0.75;
+        background: #09579d;
+        background-size: 100% 100%;
+        background-position: center;
+        border-radius: 180px 180px / 180px 180px;
+        background-image: radial-gradient(lightblue, #0883d1, #0883d1, yellow, #0883d1, #0883d1, #04579b, #04579b, purple);
+        background-image: radial-gradient(#64b5f6, #42a5f5, #0883d1, #04579b, lightblue);
+    }
+    
+    nav{
+        clear: both;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        top: -0.7em;
+        float: left;
+    }
+    
+    #logo{
+        box-sizing: border-box;
+        width: 94%;
+        height: auto;
+        margin-right: 16px;
+        padding: 16px;
+        text-align: center;
+        background: aliceblue;
+        border: solid 1px #42a5f5;
+        position: relative;
+        top: 2.25em;
+        box-shadow: 7px -3px 7px #09579d; 
+        border-radius: 10px 10px / 10px 10px;
+        background-image: linear-gradient(#007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -moz-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -ms-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -o-linear-gradient(left top, #007acc, #0883d1, #42a5f5, #64b5f6, #90caf9, #64b5f6, #42a5f5, #0883d1, #007acc);
+        background-image: -webkit-linear-gradient(left top, /*#007709, */#007acc, #0883d1, #42a5f5, /*#0077c9, */#64b5f6, #42a5f5, #0883d1, #007acc/*, #0077c9*/);
+    }
+    
+    #logo img{
+        width: 50%;
+        height: auto;
+        /*opacity: 0.5;
+        filter: alpha(opacity=50)*/
+    }
+    
+    /*Les lignes de Code CSS qui suivent assurent la mise en forme du petit menu qui permet de creer un compte...*/
+    #compte{
+        box-sizing: border-box;
+        height: 42px;
+        margin: 0;
+        padding: 0px 0;
+        position: relative;
+        border-right: solid 1px aliceblue;
+        border-top: solid 1px #09579d;
+        border-bottom: solid 1px #09579d;
+    }
+    
+    #compte, #commande{
+        width: 100%;
+        text-align: center;
+        border-top: solid 1px #09579d;
+        border-bottom: solid 1px #09579d;
+        
+    }
+    
+    #compte ol, #commande ol{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: inline-flex;
+        color: #09579d;
+        font-size: 10pt;
+        z-index: 3;
+    }
+    
+    #compte ol li, #commande ol li{
+        box-sizing: border-box;
+        width:33.33%;
+        height: 36px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        list-style: none;
+        background-position: center;
+        background-size: 100% 100%;
+        background-image: url("../graphics/golden2.jpg");
+        background: #ffd700;
+    }
+    
+    #compte ol li:hover, #commande ol li:hover{
+        font-weight: bold;
+    }
+    
+    #compte ol li a, #commande ol li a{
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        color: #09579d;
+        text-decoration: none;
+    }
+    
+    #compte ol li:nth-child(2), #commande ol li:nth-child(2){
+        background: #09579d;
+        color: aliceblue;
+    }
+    
+    #compte ol li:nth-child(2) a, #commande ol li:nth-child(2) a{
+        color: aliceblue;
+        width: 33.34%;
+    }
+    
+    #gauche{
+        box-sizing: border-box;
+        width: 94%;
+        height: inherit;
+        margin-right: 16px;
+        padding: 16px;
+        position: relative;
+        top: 0.7em;
+        background: lightblue;
+        box-shadow: 7px -3px 7px #09579d; 
+        border-radius: 10px 10px / 10px 10px;
+        background-image: linear-gradient(/*lightblue, */#bbdefb, #90caf9, #64b5f6, #42a5f5/*, #0883d1, #04579b*/);
+    }
+        
+    body > footer{
+        box-sizing: border-box;
+        clear: both;
+        width: auto;
+        height: auto;
+        margin: 0 auto; 
+        padding: 2.5px 0;
+        border-bottom: solid 1px #09579d;
+        border-top: solid 1px #d70000;
+        text-align: center;
+        color: beige;
+        font-size: 14pt;
+        font-weight: bold;
+        position: relative;
+        top: -1.6em;
+        border-radius: 0px 0px 20px 20px / 0px 0px 20px 20px;
+    }
+    
+    #bande-bleu, #bande-orange, #bande-jaune{
+        box-sizing: border-box;
+        width: inherit;
+        height: 45px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background-position: center;
+        background-size: 100% 100%;
+    }
+    
+    #bande-bleu{
+        width: 100%;
+        height: 4.5em;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: aliceblue;
+        font-family: "Easy Open Face";
+        background: #09599d;
+        background-image: radial-gradient(#09579d, #0883d1);
+        text-shadow: 7px 0 7px #42a5f5;
+        /*position: absolute;*/
+        border-radius: 0px 0px 30px 30px / 0px 0px 30px 30px;
+    }
+    
+    #bande-jaune{
+        width: 100%;
+        height: 4.5em;
+        margin: 0 0 2.5px 0;
+        padding-top: 0;
+        text-align: center;
+        color: #09599d;
+        border-bottom: solid 1px #09579d;
+        background-image: url("../graphics/golden-g7.jpg");
+        background-size: 100% 100%;
+        background-position: center;
+        text-shadow: 3px 0 7px #0074e5;
+        /*position: absolute;*/
+        top: 4.7em;
+    }
+    
+    /*#bande-jaune{
+        color: aliceblue;
+        background: #04579b;
+        background-image: url("/graphics/golden3.jpg");
+        background: #007acc;
+    }
+    
+    #bande-orange{
+        color: #04579b;
+        background: #04579b;
+        background-image: url("/graphics/golden-g7.jpg");
+        background-repeat: repeat;
+        background: #ffd700;
+    }
+    
+    #bande-bleu{
+        background: #d70000;
+        background-image: url("/graphics/golden-blue.jpg");
+        background: #04579b;
+        border-radius: 0px 0px 25px 25px / 0px 0px 25px 25px;
+    }*/

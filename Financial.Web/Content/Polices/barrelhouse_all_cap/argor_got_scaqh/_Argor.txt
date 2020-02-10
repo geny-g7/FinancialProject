@@ -1,0 +1,67 @@
+________________________________________________________________________________________
+
+* FRANCAIS:
+
+- Voici 7 fontes que j'ai créées.
+  Leurs noms sont en Silarg, langue artificielle que j'ai inventée...
+  "Argor" est le nom d'auteur que je me suis donné.
+
+- "Argor Biw Scaqh"     signifie :  "Jolie Ecriture de Argor".
+- "Argor Brujsh Scaqh"  signifie :  "Ecriture Griffonée de Argor".
+- "Argor Cwar Scaqh"    signifie :  "Ecriture Carrée de Argor".
+- "Argor Flahm Scaqh"   signifie :  "Ecriture Flamboyante de Argor".
+- "Argor Got Scaqh"     signifie :  "Ecriture Gothique de Argor".
+- "Argor Man Scaqh"     signifie :  "Ecriture Manuscrite de Argor".
+- "Argor Priht Scaqh"   signifie :  "Ecriture Primitive de Argor". 
+
+- Téléchargez ces 7 fontes (Dernières mises à jour) sur un de mes deux sites :
+http://www.argor.org
+http://jp.mallaroni.free.fr
+
+Elles sont libres d'usage et ne peuvent être vendues par un tiers...
+
+REM: Ce caractère : "¤" transformé est utilisé pour créer des lettrines dans les fontes
+"Argor Got Scaqh",  "Argor Flahm Scaqh", "Argor Biw Scaqh", "Argor Cwar Scaqh", 
+"Argor Brujsh Scaqh" & "Argor Priht Scaqh". 
+
+(Utilisez le caractère espace avec différentes largeurs avant ou après pour mieux y
+centrer un caractère à l'intérieur)...
+
+Salut!
+
+JP Mallaroni / Marseille / France.
+
+09/09/2007.
+________________________________________________________________________________________
+
+* ENGLISH:
+
+- Here are 7 fonts I've created.
+  Their names are in Silarg, an artificial language I've invented...
+  "Argor" is the author name I've chosen.
+
+- "Argor Biw Scaqh"     means :  "The Pretty Writing of Argor".
+- "Argor Brujsh Scaqh"  means :  "The Scribbled Writing of Argor".
+- "Argor Cwar Scaqh"    means :  "The Square Writing of Argor".
+- "Argor Flahm Scaqh"   means :  "The Blazing Writing of Argor".
+- "Argor Got Scaqh"     means :  "The Gothic Writing of Argor".
+- "Argor Man Scaqh"     means :  "The Writing of Argor's Hand".
+- "Argor Priht Scaqh"   means :  "The Primitive Writing of Argor".
+
+- Download these 7 fonts (with Last updates) from my sites:
+http://www.argor.org
+http://jp.mallaroni.free.fr
+
+They are free but cannot be sold by another one than me...
+
+REM: This type: "¤" redesigned is used in "Argor Got Scaqh",  "Argor Flahm Scaqh", 
+"Argor Biw Scaqh", "Argor Cwar Scaqh", "Argor Brujsh Scaqh" & "Argor Priht Scaqh". 
+to a special use: for Head Letters put on "squares" (Use a blank size appropriated to 
+center the character inside it, before and/or after)... 
+
+Bye!
+
+JP Mallaroni / Marseille / France.
+
+09/09/2007.
+________________________________________________________________________________________
